@@ -9,7 +9,7 @@
       "type": "item",
       "title": "user-managment",
       "uri": "/reference/user-managment.yaml",
-      "slug" : "usr",
+      "slug" : "usr_mgmt",
       "operationSlugs" : {
         "get-users-userId": "get-oplslug"
       }
