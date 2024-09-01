@@ -1,0 +1,28 @@
+{
+  "collapseTableOfContents": false,
+  "items": [
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "user-managment",
+      "uri": "/reference/user-managment.yaml",
+      "slug" : "usr",
+      "operationSlugs" : {
+        "get-users-userId": "get-oplslug"
+      }
+    },
+    {
+      "type": "item",
+      "title": "product-managment",
+      "uri": "/reference/product-managment.yaml"
+    },
+    {
+      "type": "item",
+      "title": "testsec",
+      "uri": "/reference/testsec.yaml"
+    }
+  ]
+}
